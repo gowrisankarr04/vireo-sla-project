@@ -1,0 +1,93 @@
+ticket_id,created_at,first_response_at,resolved_at,status,channel,customer_id,order_id,product_sku,category,priority,assigned_team,agent_id,transfers,csat_score,refund_amount_inr,refund_reason_code,replacement_issued,customer_message,agent_notes,source_system,response_was_blank,created_timestamp_invalid,response_timestamp_invalid,source_priority,created_date_ist,sla_target_minutes,response_minutes,response_before_creation,response_data_invalid,breach,analysis_eligible,_ticket_row_id,name,site,team,shift,tier,from_date,to_date,week_start
+TK-244465,2025-09-05 20:19:00+05:30,2025-09-06 00:38:00+05:30,2025-09-06 01:03:00+05:30,resolved,email,C103314,,VA-EB-PL2,Billing & Payments,Normal,Billing,A3032,0,3.0,525.0,PRICE-ADJ,N,not what i expectted from vireo. got my pulse 2 from flipkart 2 weeks ago. pomo code shows invalid. i already tried on app and website. this is the last time i buy from you.,issue: coupon not applied | checked cart eligibility -> refunded rs 525,legacy_fd,False,False,False,1,2025-09-05,480,259.0,False,False,False,True,3532,Aadhya Sheikh,Indore,Billing,Morning,1,2021-03-23,,2025-09-01
+TK-243654,2025-08-09 00:50:00+05:30,2025-08-09 06:42:00+05:30,2025-08-09 06:59:00+05:30,resolved,social,C105208,VR883083,VA-EB-AIR,Account & Login,Normal,Chat Frontline,A3013,0,4.0,,,N,"product: the airlite buds
+order: vr883083
+purchased: june 01
+issue: not receiving otp to login
+tried: tried on another browser
+expected: fix","1. Login issue
+2. Checked number on account
+3. Number updated, resolved",legacy_fd,False,False,False,1,2025-08-09,240,352.0,False,False,True,True,2899,Ritika Chatterjee,Indore,Chat Frontline,Morning,1,2021-08-23,,2025-08-04
+TK-244835,2025-09-18 08:17:00+05:30,2025-09-18 08:22:00+05:30,2025-09-18 08:52:00+05:30,resolved,chat,C101077,VR903490,VA-EB-PL2,App & Firmware,Normal,Chat Frontline,A3008,1,4.0,,,Y,"hey
+firmware update is stuck at 67%
+the pulse 2 earbuds","update hagn | chk fw 3.2.5 rollout -> rplc approved, reverse pickup arranged [closed]",helpdesk,False,False,False,0,2025-09-18,15,5.0,False,False,False,True,3822,Steven Kaur,Indore,Chat Frontline,Morning,1,2022-05-02,,2025-09-15
+TK-247382,2025-12-01 12:51:00+05:30,2025-12-01 12:54:00+05:30,2025-12-01 13:24:00+05:30,resolved,chat,C104525,,VA-SP-MINI,Audio Quality,Normal,Chat Frontline,A3028,1,,,,N,"hi
+disttorted audio at high volume
+the mini speaker","cx reached out - crackling/distortion. Asked for a recording. xfer to Logistics. adv EQ reset, resolved.",helpdesk,False,False,False,0,2025-12-01,15,3.0,False,False,False,True,5846,Krishna Kaur,Indore,Logistics,Morning,1,2021-09-12,,2025-12-01
+TK-251409,2026-04-03 10:03:00+05:30,2026-04-03 11:38:00+05:30,2026-04-03 11:55:00+05:30,resolved,email,C109264,VR904899,VA-EB-AIR,Billing & Payments,Normal,Billing,A3033,0,,1709.0,DUP-PAYMENT,N,"team,
+card charged two times
+please jaldi
+the airlite buds",duplicate refunded to source. issue: duplicate payment. chk pg for duplicate txn. [closed],helpdesk,False,False,False,0,2026-04-03,480,95.0,False,False,False,True,9036,Amit Kulkarni,Bengaluru,Billing,Morning,1,2023-02-26,,2026-03-30
+TK-253323,2026-06-07 12:24:00+05:30,2026-06-07 20:47:00+05:30,2026-06-09 20:59:00+05:30,resolved,email,C109015,VR895588,VA-SW-NX2,Other,Low,Email Frontline,A3021,0,,,,N,"PRODUCT: NEXA 2
+ORDER: VR895588
+PURCHASED: 06/06
+ISSUE: IT HAS BEEN 4 DAYS AND I HAVE NOTHING IN HAND
+TRIED: CHECKED WITH NEIGHBOURS
+EXPECTED: REPLACEMENT",cx: shipment not rcvd | raised ticket with crr partner -> refund initiated as lost in transit,helpdesk,False,False,False,0,2026-06-07,480,503.0,False,False,True,True,10582,Aditya Dhillon,Bengaluru,Email Frontline,Day,1,2022-09-20,,2026-06-01
+TK-245546,2025-10-12 19:08:00+05:30,2025-10-12 19:08:00+05:30,2025-10-12 19:38:00+05:30,resolved,chat,C105253,VR901069,VA-EB-PL2,Connectivity,Low,Chat Frontline,A3003,0,,,,Y,"hi there, i bought pulse2 on 21/09. the progress bar has not moved since morning. i kept it in the case. nohing changed. i want a replacement. rgds payal shah",resolved on call ~Harpreet,helpdesk,False,False,False,0,2025-10-12,15,0.0,False,False,False,True,4403,Harpreet Deshpande,Indore,Chat Frontline,Day,1,2025-06-30,,2025-10-06
+TK-251167,2026-03-27 11:42:00+05:30,2026-03-27 16:13:00+05:30,2026-03-27 16:44:00+05:30,closed,email,C105330,VR906605,VA-EB-PL2,Audio Quality,High,Email Frontline,A3020,0,,,,N,this is very disappointing. ordered the pulse 2 earbuds a month ago. microphone is very low on the the pulse 2 earbuds. i already tried different apps. this is the last time i buy from you.,Replacement raised. Issue: mic issue. Tested on call w/ cx.,helpdesk,False,False,False,0,2026-03-27,480,271.0,False,False,False,True,8847,Ramesh Ghosh,Bengaluru,Email Frontline,Day,1,2020-12-26,,2026-03-23
+TK-243826,2025-08-14 22:00:00+05:30,2025-08-15 08:42:00+05:30,2025-08-18 09:05:00+05:30,resolved,email,C106429,VR907222,VA-EB-PL2,Returns & Refunds,Normal,Returns Desk,A3037,0,0.0,,,N,refund was promised 20 days ago & nothing. VR907222,Refund confirmed credited. Issue: refund pending. Checked reverse pickup QC status.,legacy_fd,False,False,False,1,2025-08-14,480,642.0,False,False,True,True,3031,Rahul Sen,Bengaluru,Returns Desk,Morning,1,2021-03-02,,2025-08-11
+TK-245050,2025-09-26 00:27:00+05:30,2025-09-26 07:47:00+05:30,2025-09-27 09:40:00+05:30,closed,email,C101627,,VA-EB-PL2,Warranty & Repair,Low,Escalations & Warranty,A3043,2,4.0,,,N,This is very disappointing. Ordered my Pulse 2 in September. product arrived damaged. I already refused nothing as I didn't notice till later. This is the last time I buy from you.,"1. Damaged in transit
+2. Photos received, damage conf
+3. rplc dispatched",helpdesk,False,False,False,0,2025-09-26,480,440.0,False,False,False,True,3994,Rohit Jain,Bengaluru,Escalations & Warranty,Morning,2,2022-01-28,,2025-09-22
+TK-249890,2026-02-14 16:20:00+05:30,2026-02-14 16:34:00+05:30,2026-02-14 16:50:00+05:30,resolved,chat,C102886,,VA-SW-NX2,Account & Login,Normal,Chat Frontline,A3015,0,5.0,,,N,"hello vireo, bought nexa 2 around 13-10-2025 from vireo.in. locked out of my own account since 10 days ago. i tried 5 times. kindly look into it. rgds",cx reached out - login issue. Checked number on account. Account unlocked. -YA,helpdesk,False,False,False,0,2026-02-14,15,14.0,False,False,False,True,7836,Yash Agarwal,Bengaluru,Chat Frontline,Day,1,2023-09-30,,2026-02-09
+TK-245878,2025-10-21 14:22:00+05:30,2025-10-21 14:32:00+05:30,2025-10-21 14:57:00+05:30,resolved,chat,C100997,VR886842,VA-SP-MINI,App & Firmware,Normal,Chat Frontline,A3012,0,4.0,,,N,firmware update is stuck at 99%. please resolve aspa,Ticket raised for firmware update failed. Asked cx to keep in case 30 min. Recovery successful. Cx informed.,helpdesk,False,False,False,0,2025-10-21,15,10.0,False,False,False,True,4667,Lakshmi Sethi,Bengaluru,Chat Frontline,Day,1,2023-02-06,,2025-10-20
+TK-252945,2026-05-24 19:47:00+05:30,2026-05-24 22:42:00+05:30,2026-05-25 23:05:00+05:30,resolved,email,C105617,VR908333,VA-EB-PL2,Delivery & Shipping,Low,Logistics,A3031,0,3.0,,,N,"hey
+my order has not been delivered yet
+the pulse 2 earbuds
+anyone there","1. delivery delayed
+2. conf address with cx
+3. courier conf deliery for 26 may, cx informed //OM",helpdesk,False,False,False,0,2026-05-24,480,175.0,False,False,False,True,10278,Om Malhotra,Bengaluru,Logistics,Morning,1,2021-07-24,,2026-05-18
+TK-251295,2026-03-31 06:53:00+05:30,2026-03-31 06:59:00+05:30,2026-03-31 07:14:00+05:30,closed,chat,C109171,,VA-EB-PL2,Other,Normal,Chat Frontline,A3010,0,,,,N,"helo
+want to cancel my order
+the pulse 2 earbuds","cx: cancellation request | cancelled before dispatch -> already shipped, adv rto/return ~Neha",helpdesk,False,False,False,0,2026-03-31,15,6.0,False,False,False,True,8944,Neha Chatterjee,Indore,Chat Frontline,Morning,1,2022-04-14,,2026-03-30
+TK-248440,2026-01-01 10:12:00+05:30,2026-01-01 11:48:00+05:30,2026-01-01 11:57:00+05:30,resolved,email,C102984,,VA-SP-MINI,Product Enquiry,Normal,Email Frontline,A3018,0,,,,N,before I buy - will this talk to a 2019 Samsung,ticket raised for compatibility query. shared spec sheet. cx satisfied. //FAR,helpdesk,False,False,False,0,2026-01-01,480,96.0,False,False,False,True,6688,Farah Sheikh,Bengaluru,Email Frontline,Morning,1,2024-09-24,,2025-12-29
+TK-242941,2025-07-06 02:01:00+05:30,2025-07-06 06:37:00+05:30,2025-07-06 06:54:00+05:30,resolved,chat,C106530,VR894026,VA-SP-MINI,Delivery & Shipping,Normal,Logistics,A3028,0,4.0,2499.0,CANCEL,N,"dear sir/madam,
+
+i am writing w/ reference to my order of orbit mini (vr894026) placed on 14 mar. cancel order vr894026. i have tried cancel button, greyed out. i request u to look into this matter at the earliest.
+
+yours faithfully,
+nikhil yadav",Cx reported order cancellation. Checked shipment status. Refunded Rs 2499.,legacy_fd,False,False,False,1,2025-07-06,15,276.0,False,False,True,True,2337,Krishna Kaur,Indore,Logistics,Morning,1,2021-09-12,,2025-06-30
+TK-252293,2026-05-03 09:20:00+05:30,2026-05-03 11:02:00+05:30,,pending,social,C101178,VR887055,VA-NB-ARC,App & Firmware,Normal,Chat Frontline,A3009,0,4.0,,,N,"HELO
+GOES FROM FULL TO EMPTY DURING ONE COMMUTE
+THE NECKBAND VR887055
+HELP",contact re rapid battery drain. adv disabling anc/aod to test. rplc raised after test. cx satisfied on chat.,helpdesk,False,False,False,0,2026-05-03,240,102.0,False,False,False,True,9754,Ramesh Patel,Bengaluru,Chat Frontline,Morning,1,2024-06-02,,2026-04-27
+TK-248631,2026-01-06 20:14:00+05:30,2026-01-06 20:20:00+05:30,2026-01-06 20:56:00+05:30,resolved,chat,C106267,VR885917,VA-AC-CASE,Billing & Payments,Normal,Billing,A3034,0,4.0,,,N,"hii
+payment was deducted but no order was created
+replaecment case VR885917",Refund processed to source. Issue: failed order after payment. Checked PG dashboard for txn. [closed],helpdesk,False,False,False,0,2026-01-06,15,6.0,False,False,False,True,6847,Thomas Patel,Bengaluru,Billing,Day,1,2022-03-04,,2026-01-05
+TK-249203,2026-01-24 10:40:00+05:30,2026-01-24 11:20:00+05:30,2026-01-24 11:43:00+05:30,resolved,email,C103308,VR880902,VA-SW-FIT,Other,Normal,Email Frontline,A3019,0,2.0,,,N,"to the vireo customer care team,
+
+i am writing with reference to my order of nexa fit placed on 10/01. i haven't received my order. i have checked with neighbours. i request you to look into this matter at the earliest.
+
+regards,
+daniel yadav
+kolkata",Customer reached out - shipment not received. Checked AWB with courier. Re-shipped from warehouse.,helpdesk,False,False,False,0,2026-01-24,480,40.0,False,False,False,True,7304,Sai Sandhu,Bengaluru,Email Frontline,Morning,1,2024-03-04,,2026-01-19
+TK-242172,2025-05-22 06:17:00+05:30,2025-05-22 06:22:00+05:30,2025-05-25 06:53:00+05:30,resolved,chat,C104419,VR898920,VA-AC-CASE,Returns & Refunds,Normal,Returns Desk,A3037,0,2.0,,,Y,wrogn proudct delviered - VR898920 - need this sorted this wek,Replacement dispatched. Issue: wrong item delivered. Verified order vs delivered item photos. (SOP 4.2),legacy_fd,False,False,False,1,2025-05-22,15,5.0,False,False,False,True,1730,Rahul Sen,Bengaluru,Returns Desk,Morning,1,2021-03-02,,2025-05-19
+TK-241809,2025-04-30 14:49:00+05:30,2025-04-30 15:04:00+05:30,2025-04-30 15:24:00+05:30,resolved,voice,C105274,,VA-SW-FIT,Other,Low,Voice Frontline,A3026,0,0.0,270.0,CANCEL,N,"hi
+waant to cancel my order
+nexa fit
+hello??",re: cancellation request | cancelled before dispatch -> refunded rs 270,legacy_fd,False,False,False,1,2025-04-30,120,15.0,False,False,False,True,1434,Lakshmi Qureshi,Bengaluru,Voice Frontline,Day,1,2021-02-03,,2025-04-28
+TK-243903,2025-08-17 12:09:00+05:30,2025-08-17 12:57:00+05:30,2025-08-17 13:09:00+05:30,resolved,social,C101246,,VA-HP-ST2,Delivery & Shipping,Normal,Logistics,A3028,0,0.0,,,N,"bhai
+received damaged product
+last month se
+my strata 2 headphones",Customer reached out - unit received damaged. chk witth courier for damage claim. Replacement dispatched.,legacy_fd,False,False,False,1,2025-08-17,240,48.0,False,False,False,True,3094,Krishna Kaur,Indore,Logistics,Morning,1,2021-09-12,,2025-08-11
+TK-247764,2025-12-11 15:18:00+05:30,2025-12-11 16:25:00+05:30,2025-12-11 16:49:00+05:30,resolved,voice,C105067,VR891508,VA-EB-PL2,Billing & Payments,High,Billing,A3018,1,3.0,,,N,Tis is regarding the Pulse 2 earbuds. The invoice PDF link gives a 404. Can someone fix this? Thnks Ishaan Gupta,customer states invoice query. regenerated invoice. transferred to email frontline. invoice emailed. //FAR,helpdesk,False,False,False,0,2025-12-11,120,67.0,False,False,False,True,6148,Farah Sheikh,Bengaluru,Email Frontline,Morning,1,2024-09-24,,2025-12-08
+TK-240315,2025-01-31 18:49:00+05:30,2025-02-01 01:49:00+05:30,2025-02-03 02:15:00+05:30,closed,social,C103181,VR901370,VA-AC-CBL,Delivery & Shipping,Normal,Logistics,A3031,0,3.0,359.0,DOA-REPL,N,"Product: teh cable
+Order: VR901370
+Purchased: 24/01
+Issue: received damageed product
+Tried: refused nothing as I didn't notice tlil later
+Expected: replacement","1. unit received damaged
+2. photos received, damage confirmed
+3. rfnd approved, rs 359, 5-7 working days //OM",helpdesk,False,False,False,0,2025-01-31,240,420.0,False,False,True,True,251,Om Malhotra,Bengaluru,Logistics,Morning,1,2021-07-24,,2025-01-27
+TK-249800,2026-02-11 13:27:00+05:30,2026-02-11 13:31:00+05:30,2026-02-11 13:44:00+05:30,resolved,chat,C103491,,VA-EB-AIR,Other,High,Chat Frontline,A3011,0,,,,N,"Dear team, Bought airlite earbuds around 03 Feb from vireo.in.  Typo in the flat number, courier will never find it. What do I do now? Thanks in advance",address updated. issue: wrong pincode. updated address with courier.,helpdesk,False,False,False,0,2026-02-11,15,4.0,False,False,False,True,7768,Karan Roy,Indore,Chat Frontline,Morning,1,2022-06-26,,2026-02-09
+TK-240442,2025-02-07 16:44:00+05:30,2025-02-07 21:50:00+05:30,2025-02-07 22:17:00+05:30,resolved,email,C104610,VR882349,VA-AC-CH65,Billing & Payments,High,Billing,A3034,0,5.0,1349.0,DUP-PAYMENT,N,"paid via UPI, amount deducted, no order confirmation - VR882349 - can someone fix this?",Refund of Rs 1349 initiated to source. Issue: failed order after payment. Asked for UTR. [closed],legacy_fd,False,False,False,1,2025-02-07,480,306.0,False,False,False,True,346,Thomas Patel,Bengaluru,Billing,Day,1,2022-03-04,,2025-02-03
+TK-243182,2025-07-19 17:59:00+05:30,2025-07-19 20:28:00+05:30,2025-07-19 20:43:00+05:30,resolved,email,C100381,,VA-EB-PL1,Other,Normal,Email Frontline,A3021,0,0.0,,,N,"hello
+update my shipping address
+pulse 1
+pls reply",Address updated. Issue: address change request. Updated address with courier.,legacy_fd,False,False,False,1,2025-07-19,480,149.0,False,False,False,True,2527,Aditya Dhillon,Bengaluru,Email Frontline,Day,1,2022-09-20,,2025-07-14
+TK-250116,2026-02-21 18:36:00+05:30,2026-02-21 18:43:00+05:30,2026-02-21 19:02:00+05:30,resolved,chat,C100847,VR886382,VA-EB-PL2,Billing & Payments,Low,Billing,A3034,0,2.0,,,N,MONEY DEBITED BUT ORDDER NOT SHOWING - VR886382,"1. Payment debited, no order
+2. Asked for UTR
+3. Order manually created [closed]",helpdesk,False,False,False,0,2026-02-21,15,7.0,False,False,False,True,8011,Thomas Patel,Bengaluru,Billing,Day,1,2022-03-04,,2026-02-16
+TK-245791,2025-10-19 10:45:00+05:30,2025-10-19 11:04:00+05:30,2025-10-19 11:26:00+05:30,resolved,chat,C101136,VR893368,VA-HP-ST3,Billing & Payments,High,Billing,A3032,0,,,,N,Reaally frustrating. Bought Strata 3 around 08 Oct from vireo.in. coupon code not working. I already tried on app and website. This is teh last time I buy from you,"promo code invalid | chk cart eligibility -> adv coupon terms, resolved",helpdesk,False,False,False,0,2025-10-19,15,19.0,False,False,True,True,4597,Aadhya Sheikh,Indore,Billing,Morning,1,2021-03-23,,2025-10-13
+TK-242572,2025-06-15 23:03:00+05:30,2025-06-15 23:05:00+05:30,2025-06-15 23:31:00+05:30,resolved,chat,C106736,VR894160,VA-SP-MINI,Charging & Battery,High,Chat Frontline,A3020,2,,,,N,speaker not powering on at all - VR894160,rslvd on call,helpdesk,False,False,False,0,2025-06-15,15,2.0,False,False,False,True,2039,Ramesh Ghosh,Bengaluru,Email Frontline,Day,1,2020-12-26,,2025-06-09
